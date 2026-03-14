@@ -1,8 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-  🎓 Computer Engineering student, passionate about Linux and open-source software development.
-  Catch me in Revachol
+  🎓 Computer Engineering student, passionate about Linux and open-source software development. Catch me in Revachol!
 </p>
 
 ---
@@ -11,7 +10,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arch,apple,ubuntu,kali,py,java,rust,c,mysql,vim,vscode,eclipse,sublime,git,github,docker,discord,notion&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=linux,arch,apple,ubuntu,kali,mint,py,java,rust,c,scala,js,mysql,azure,vim,vscode,eclipse,sublime,git,github,docker,discord,notion,windows&theme=dark&perline=6" />
   </a>
 </p>
 
