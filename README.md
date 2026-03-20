@@ -5,14 +5,6 @@
 
 ---
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DiscoHDuBois&theme=darkhub&row=1&no-frame=true&margin-w=10" />
-</p>
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
@@ -49,7 +41,6 @@
 
 <p align="center">
   <i>"The pale compels you."</i><br/>
-  <sub>— Disco Elysium</sub>
 </p>
 
 ---
