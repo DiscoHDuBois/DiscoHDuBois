@@ -1,7 +1,14 @@
 <h1 align="center">Hi there 👋</h1>
-
 <p align="center">
   🎓 Computer Engineering student, passionate about Linux and open-source software development. Catch me in Revachol!
+</p>
+
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DiscoHDuBois&theme=darkhub&row=1&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -16,6 +23,37 @@
 
 ---
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tuousername&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DiscoHDuBois&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiscoHDuBois&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+## 🔥 Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DiscoHDuBois&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TUOUSERNAME/TUOUSERNAME/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+
+---
+
+<p align="center">
+  <i>"The pale compels you."</i><br/>
+  <sub>— Disco Elysium</sub>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DiscoHDuBois&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
