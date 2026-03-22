@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 <p align="center">
-  🎓 Computer Engineering student, passionate about Linux and open-source software development. Catch me in Revachol!
+  🎓 Computer Engineering student, passionate about Linux and open-source software development. Nyo-ho!
+  
 </p>
 
 ---
