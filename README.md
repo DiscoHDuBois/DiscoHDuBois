@@ -12,14 +12,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiscoHDuBois&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
