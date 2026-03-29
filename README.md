@@ -12,6 +12,10 @@
 
 ---
 
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
+
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
