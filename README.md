@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 <p align="center">
-  🎓 Computer Engineering student, passionate about Linux and open-source software development. Nyo-ho!
+  🎓 Computer Engineering student, passionate about Linux and open-source software development.
   
 </p>
 
@@ -8,7 +8,7 @@
 
 ## 🛠️ Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,apple,ubuntu,kali,debian,py,java,rust,c,scala,npm,dotnet,go,js,ts,latex,postgres,mysql,bash,vim,vscode,eclipse,sublime,git,github,docker,discord,notion,windows&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,apple,ubuntu,kali,debian,py,java,rust,c,scala,npm,dotnet,go,js,ts,latex,postgres,matlab,bash,vim,vscode,eclipse,sublime,git,github,docker,discord,notion,windows&perline=15)](https://skillicons.dev)
 
 ---
 
@@ -21,9 +21,7 @@
 
 ---
 
-<p align="center">
-  <i>"The pale compels you."</i><br/>
-</p>
+<h1 align="center"> The pale compels you</h1>
 
 ---
 
