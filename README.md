@@ -1,12 +1,12 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> </h1>
 <p align="center">
-  🎓 Computer Engineering student, passionate about Linux and open-source software development.
+  Computer Engineering student, passionate about Linux and open-source software development. I also love C.
   
 </p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=linux,arch,apple,ubuntu,kali,debian,py,java,rust,c,cpp,scala,npm,go,js,ts,latex,postgres,matlab,bash,vim,vscode,eclipse,sublime,git,github,docker,discord,notion,react,windows&perline=15)](https://skillicons.dev)
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DiscoHDuBois/DiscoHDuBois/output/github-contribution-grid-snake-dark.svg" />
@@ -30,3 +30,6 @@
 </p>
 
 <p align="center"><em>Catch me in Revachol (or between Jupiter and Mars).</em></p>
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
