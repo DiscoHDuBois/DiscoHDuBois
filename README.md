@@ -26,3 +26,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DiscoHDuBois&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
+
+<p align="center"><em>Catch me in Revachol (or between Jupiter and Mars).</em></p>
