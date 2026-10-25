@@ -8,7 +8,7 @@
 
 ## Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,apple,ubuntu,kali,debian,py,java,rust,c,cpp,scala,npm,go,js,ts,latex,postgres,matlab,bash,vim,vscode,eclipse,sublime,git,github,docker,discord,notion,react,windows&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,apple,ubuntu,kali,debian,py,java,rust,c,cpp,scala,npm,go,js,latex,postgres,matlab,bash,vim,vscode,eclipse,sublime,git,github,docker,discord,notion,react,windows&perline=15)](https://skillicons.dev)
 
 <p align="center"> (Some of these are here just because they have a nice icon. I'm not referring to the last one, unfortunately) </p>
 
