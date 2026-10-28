@@ -10,7 +10,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linux,arch,ubuntu,redhat,kali,debian,apple,c,cpp,java,py,rust,docker,md,npm,obsidian,js,ts,react,latex,sqlite,postgres,matlab,bash,vim,vscode,eclipse,sublime,git,github,githubactions,gitlab,discord,notion,azure,windows&perline=15)](https://skillicons.dev)
 
-<p align="center"> (Some of these are here just because they have a nice icon. I'm not referring to the last one, unfortunately) </p>
+<p align="center"> Some of these are here just because they have a nice icon. (I'm not referring to the last one, unfortunately) </p>
 
 ---
 
