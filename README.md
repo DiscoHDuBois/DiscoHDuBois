@@ -6,13 +6,26 @@
 
 ---
 
-## Tech Stack & Tools
+## OS
 
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,ubuntu,redhat,kali,debian,apple,c,cpp,java,py,rust,docker,md,npm,obsidian,js,ts,react,latex,sqlite,postgres,matlab,bash,vim,vscode,eclipse,sublime,git,github,githubactions,gitlab,discord,notion,azure,windows&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,ubuntu,redhat,kali,debian,apple,windows&perline=8)](https://skillicons.dev)
 
-<p align="center"> Some of these are here just because they have a nice icon. (I'm not referring to the last one, unfortunately) </p>
 
----
+## Langs & Libs
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,rust,js,ts,react,latex,md,sqlite,postgres,matlab&perline=13)](https://skillicons.dev)
+
+
+## IDE
+
+[![My Skills](https://skillicons.dev/icons?i=bash,vim,vscode,eclipse,sublime&perline=5)](https://skillicons.dev)
+
+
+## Tools 
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,gitlab,docker,discord,notion,azure,obsidian,npm&perline=10)](https://skillicons.dev)
+
+<p align="center"> Some of these are here just because they have a nice icon ;) </p>
 
 ## Contribution Snake
 
