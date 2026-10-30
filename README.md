@@ -1,6 +1,7 @@
 <h1 align="center">Hi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> </h1>
 <p align="center">
-  Computer Engineering student, passionate about Linux and open-source software development. I also love C.
+  Computer Engineering student, passionate about Linux and open-source software development. I like making electronics personal project as well but i'm not confident enough to share them with the world.
+  I often do some challenges on HTB (for fun ofc)
 </p>
 
 
