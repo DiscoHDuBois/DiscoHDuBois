@@ -36,7 +36,7 @@ I often do some challenges on HTB (for fun ofc)
 
 
 
-<h1 align="center"> The pale compels you</h1>
+<h1 align="center"> The pale compels you </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DiscoHDuBois&color=blueviolet&style=flat-square" alt="Profile views" />
