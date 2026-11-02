@@ -17,7 +17,7 @@ I often do some challenges on HTB (for fun ofc)
 
 ## Langs & Libs
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,rust,js,ts,react,html,latex,md,sqlite,postgres,matlab&perline=14)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,rust,js,ts,react,html,css,latex,md,sqlite,postgres,matlab&perline=15)](https://skillicons.dev)
 
 
 ## IDE
