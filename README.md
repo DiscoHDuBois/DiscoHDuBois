@@ -12,7 +12,7 @@ I often do some challenges on HTB (for fun ofc)
 
 ## OS
 
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,ubuntu,redhat,kali,debian,apple,windows&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,redhat,ubuntu,kali,debian,apple,windows&perline=8)](https://skillicons.dev)
 
 
 ## Langs & Libs
