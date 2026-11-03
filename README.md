@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-I like making electronics personal project as well but i'm not confident enough to share them with the world.
+I like making electronics personal project as well but i'm not confident enough to share them.
 
 <p align="center">
 I often do some challenges on HTB (for fun ofc)
