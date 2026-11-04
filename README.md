@@ -22,7 +22,7 @@ I often do some challenges on HTB (for fun ofc)
 
 ## IDE
 
-[![My Skills](https://skillicons.dev/icons?i=bash,vim,vscode,eclipse,sublime&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,vim,vscode,vscodium,eclipse,sublime&perline=6)](https://skillicons.dev)
 
 
 ## Tools 
