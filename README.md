@@ -30,6 +30,7 @@ I often do some challenges on HTB (for fun ofc)
 [![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,gitlab,docker,discord,notion,azure,obsidian,npm&perline=10)](https://skillicons.dev)
 
 <p align="center"> Some of these are here just because they have a nice icon ;) </p>
+<p align = "center"> (Unfortunately, I'm not referring to the last OS icon...) </p>
 
 ## Contribution Snake
 
