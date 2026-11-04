@@ -1,4 +1,4 @@
-<h1 align="center">Hi pale<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> </h1>
+<h1 align="center">Hi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> </h1>
 <p align="center">
   Computer Engineering student, passionate about Linux and open-source software development. 
 </p>
