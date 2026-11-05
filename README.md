@@ -15,14 +15,14 @@ I often do some challenges on HTB (for fun ofc)
 [![My Skills](https://skillicons.dev/icons?i=linux,arch,redhat,ubuntu,kali,debian,apple,windows&perline=8)](https://skillicons.dev)
 
 
-## Langs & Libs
+## Langs, Libs & Framework
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,rust,js,ts,react,html,css,latex,md,sqlite,postgres,matlab&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,rust,js,ts,react,html,css,latex,md,sqlite,postgres,matlab,flask,cassandra&perline=17)](https://skillicons.dev)
 
 
 ## IDE
 
-[![My Skills](https://skillicons.dev/icons?i=bash,vim,vscode,vscodium,eclipse,sublime&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,vim,neovim,vscode,vscodium,eclipse,sublime&perline=7)](https://skillicons.dev)
 
 
 ## Tools 
