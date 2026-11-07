@@ -13,7 +13,7 @@ I often do some challenges on HTB (for fun ofc)
 ## OS
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arch,redhat,ubuntu,kali,debian,apple,windows" />
+    <img src="https://skillicons.dev/icons?i=linux,arch,redhat,ubuntu,kali,debian,bsd,apple,windows" />
   </a>
 </p>
 
