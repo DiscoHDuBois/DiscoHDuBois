@@ -19,18 +19,26 @@ I often do some challenges on HTB (for fun ofc)
 
 ## Langs, Libs & Framework
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,java,py,js,ts,react,html,css,latex,md,sqlite,postgres,mysql,flask,cassandra,matlab&perline=9)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,java,py,js,ts,react,html,css,latex,md,sqlite,postgres,mysql,flask,cassandra,matlab&perline=9" />
+  </a>
+</p>
 
 ## IDE
-
-[![My Skills](https://skillicons.dev/icons?i=bash,vim,neovim,vscode,vscodium,eclipse,sublime&perline=7)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,vim,neovim,vscode,vscodium,eclipse,sublime" />
+  </a>
+</p>
 
 
 ## Tools 
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,gitlab,docker,regex,discord,notion,obsidian,npm&perline=10)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,docker,regex,discord,notion,obsidian,npm" />
+  </a>
+</p>
 <p align="center"> Some of these are here just because they have a nice icon ;) </p>
 <p align = "center"> (Unfortunately, I'm not referring to the last OS icon...) </p>
 
