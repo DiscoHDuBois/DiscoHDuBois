@@ -21,7 +21,7 @@ I often do some challenges on HTB (for fun ofc)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,rust,java,py,js,ts,react,html,css,latex,md,sqlite,postgres,mysql,flask,cassandra,matlab&perline=9" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,java,py,js,react,html,css,lua,latex,md,sqlite,postgres,mysql,flask,cassandra,matlab&perline=9" />
   </a>
 </p>
 
