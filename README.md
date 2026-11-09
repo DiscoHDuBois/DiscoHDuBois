@@ -36,7 +36,7 @@ I often do some challenges on HTB (for fun ofc)
 ## Tools 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,docker,regex,discord,notion,obsidian,npm" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,docker,regex,discord,notion,obsidian,npm,svg" />
   </a>
 </p>
 <p align="center"> Some of these are here just because they have a nice icon ;) </p>
