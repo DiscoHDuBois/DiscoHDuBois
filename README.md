@@ -28,7 +28,7 @@ I often do some challenges on HTB
 ## IDE
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,vim,neovim,vscode,vscodium,eclipse,sublime" />
+    <img src="https://skillicons.dev/icons?i=vscodium,vscode,neovim,vim,eclipse,sublime" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@ I often do some challenges on HTB
 ## Tools 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,stackoverflow,docker,regex,discord,notion,obsidian,npm,svg" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,stackoverflow,docker,regex,bash,powershell,discord,notion,obsidian,npm,svg" />
   </a>
 </p>
 <p align="center"> Some of these are here just because they have a nice icon ;) </p>
