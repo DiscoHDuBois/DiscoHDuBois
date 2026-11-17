@@ -4,12 +4,12 @@
 </p>
 
 <p align="center">
-I like making electronics personal project as well but i'm not confident enough to share them. 
   Made my first encounter with Linux (Ubuntu) as a kid. 
-  Then I moved my first steps in Arch Linux, now i drove back to Fedora till i graduate due to trust issue about me taking decisions, but i'm keeping it cool as long as my GNOME looks like i3
+  Then I moved my first steps in Arch Linux, now i drove back to Fedora til' I graduate due to trust issues about me taking decisions, but i'm keeping it cool as long as my GNOME looks like i3.
+  I'm also into CyberSecurity but i'm still learning by myself doing some challenges on HTB, hopefully I'm gonna learn more once I access a Master Degree.
 
 <p align="center">
-I often do some challenges on HTB
+I like making electronics personal project as well but i'm not confident enough to share them.
 </p>
 
 ## OS
