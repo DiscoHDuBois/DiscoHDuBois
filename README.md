@@ -4,7 +4,9 @@
 </p>
 
 <p align="center">
-I like making electronics personal project as well but i'm not confident enough to share them.
+I like making electronics personal project as well but i'm not confident enough to share them. 
+  Made my first encounter with Linux (Ubuntu) as a kid. 
+  Then I moved my first steps in Arch Linux, now i drove back to Fedora till i graduate due to trust issue about me taking decisions, but i'm keeping it cool as long as my GNOME looks like i3
 
 <p align="center">
 I often do some challenges on HTB
