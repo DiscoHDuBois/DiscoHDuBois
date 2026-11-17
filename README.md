@@ -1,15 +1,14 @@
 <h1 align="center">Hi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> </h1>
 <p align="center">
-  Computer Engineering student, passionate about Linux and open-source software development. 
+  Computer Engineering student, passionate about Linux and open-source software development. I like making electronics personal project as well but i'm not confident enough to share them.
 </p>
 <p align="center"><em> 
   Made my first encounter with Linux (Ubuntu) as a kid. 
   Then I moved my first steps in Arch Linux, now I drove back to Fedora til' I graduate due to trust issues about me taking decisions, but I'm keeping it cool as long as my GNOME looks like my i3.
-  I'm also into CyberSecurity but i'm still learning by myself doing some challenges on HTB, hopefully I'll get better once I access a Master Degree.
+  I'm also into CyberSecurity but i'm still learning by myself doing some challenges on HTB...hopefully I'll get better once I access a Master Degree.
+
+  I like videogames such as Disco Elysium, (can you tell?) almost all of Kojima's stuff and I'm in love with Ada Wong since I was 5 :) And since I was 12 I've developed a strange obessession for Evangelion
 </em></p>
-<p align="center">
-I like making electronics personal project as well but i'm not confident enough to share them.
-</p>
 
 ## OS
 <p align="center">
