@@ -2,12 +2,11 @@
 <p align="center">
   Computer Engineering student, passionate about Linux and open-source software development. 
 </p>
-
-<p align="center">
+<p align="center"><em> 
   Made my first encounter with Linux (Ubuntu) as a kid. 
   Then I moved my first steps in Arch Linux, now i drove back to Fedora til' I graduate due to trust issues about me taking decisions, but i'm keeping it cool as long as my GNOME looks like i3.
   I'm also into CyberSecurity but i'm still learning by myself doing some challenges on HTB, hopefully I'm gonna learn more once I access a Master Degree.
-
+</em></p>
 <p align="center">
 I like making electronics personal project as well but i'm not confident enough to share them.
 </p>
@@ -41,8 +40,9 @@ I like making electronics personal project as well but i'm not confident enough 
     <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,stackoverflow,docker,regex,bash,powershell,discord,notion,obsidian,npm,svg" />
   </a>
 </p>
-<p align="center"> Some of these are here just because they have a nice icon ;) </p>
-<p align = "center"> (Unfortunately, I'm not referring to the last OS icon...) </p>
+<p align="center"><em> Some of these are here just because they have a nice icon</em></p>
+<p align="center"><em>  (Unfortunately, I'm not referring to the last OS icon...) </em></p>
+
 
 ## Contribution Snake
 
