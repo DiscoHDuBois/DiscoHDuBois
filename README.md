@@ -41,7 +41,7 @@ I like making electronics personal project as well but i'm not confident enough 
   </a>
 </p>
 <p align="center"><em> Some of these are here just because they have a nice icon</em></p>
-<p align="center"><em>  (Unfortunately, I'm not referring to the last OS icon...) </em></p>
+<p align="center"><em>  (Unfortunately, I'm not referring to the last OS...) </em></p>
 
 
 ## Contribution Snake
