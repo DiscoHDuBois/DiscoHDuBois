@@ -10,21 +10,16 @@
   I like videogames such as Disco Elysium, (can you tell?) almost all of Kojima's stuff and I'm in love with Ada Wong since I was 5... And since I was 12 I've developed a strange obessession for Evangelion
 </em></p>
 
-## OS
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arch,redhat,ubuntu,kali,debian,bsd,apple,windows" />
-  </a>
-</p>
-
-## Langs & Stuff
+## OS & Stuff
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,rust,py,java,js,react,html,css,lua,latex,md,sqlite,postgres,mysql,flask,cassandra,matlab,vscodium,vscode,neovim,vim,eclipse,sublime,git,github,githubactions,gitlab,stackoverflow,docker,regex,bash,powershell,discord,notion,obsidian,npm,svg&perline=15" />
+    <img src="https://skillicons.dev/icons?i=linux,arch,redhat,ubuntu,kali,debian,bsd,apple,c,cpp,rust,py,java,js,react,html,css,lua,latex,md,sqlite,postgres,mysql,flask,cassandra,matlab,vscodium,vscode,neovim,vim,eclipse,sublime,git,github,githubactions,gitlab,stackoverflow,docker,regex,bash,powershell,discord,notion,obsidian,npm,svg,windows&perline=15" />
 </p>
-<p align="center"><em> Some of these are here just because they have a nice icon</em></p>
-<p align="center"><em>  (Unfortunately, I'm not referring to the last OS...) </em></p>
+<p align="center"><em> Some of these are here just because they have a nice icon
+
+(Unfortunately, I'm not referring to the last one...)
+</em></p>
 
 
 ## Contribution Snake
