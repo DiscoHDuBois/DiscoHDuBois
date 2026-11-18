@@ -7,7 +7,7 @@
   Then I moved my first steps in Arch Linux, now I drove back to Fedora til' I graduate due to trust issues about me taking decisions, but I'm keeping it cool as long as my GNOME looks like my i3.
   I'm also into CyberSecurity but i'm still learning by myself doing some challenges on HTB...hopefully I'll get better once I access a Master Degree.
 
-  I like videogames such as Disco Elysium, (can you tell?) almost all of Kojima's stuff and I'm in love with Ada Wong since I was 5 :) And since I was 12 I've developed a strange obessession for Evangelion
+  I like videogames such as Disco Elysium, (can you tell?) almost all of Kojima's stuff and I'm in love with Ada Wong since I was 5... And since I was 12 I've developed a strange obessession for Evangelion
 </em></p>
 
 ## OS
